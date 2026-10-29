@@ -58719,3 +58719,5 @@ DisplaySize: 2959.111084 x 1664.499878 [
 2026-10-19 11:07:40.174736+0530 0x987      Error       0x0                  0      0    kernel: (IOSurface) SID: 0x0 task: <private> buffer: 0x0  buffer->fClientTask = 0x0 not found
 2026-10-19 11:07:40.189497+0530 0x216fd8   Default     0x0                  0      0    kernel: (AppleCentauriAlpha.dext) wlan0:com.apple.p2p.en0:   set Datapath Open needsTrigger 0
 hahahha
+logs.txt
+ok
